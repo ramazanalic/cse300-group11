@@ -13,11 +13,11 @@ We plan to make the project a real world problem solver, by talking to the conce
 
 *Team Members*
 
-Ankur Goel (10016)
-Sahil Jain (10071)
-Nishant Jain (10058)
-Shruti Kapur (10082)
-Anmol Kelkar (10017)
-Arjun Ahuja (10021)
-Ayushi Goyal (10025)
+Ankur Goel (10016),
+Sahil Jain (10071),
+Nishant Jain (10058),
+Shruti Kapur (10082),
+Anmol Kelkar (10017),
+Arjun Ahuja (10021),
+Ayushi Goyal (10025),
 Shreyasi Agrawal(10080)
