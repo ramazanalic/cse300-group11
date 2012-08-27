@@ -2,3 +2,6 @@
 This project will define an interactive and user-friendly model of a time-table. It will inculcate features like notifications for dynamic changes ( cancelled/rescheduled lectures) done by the administrator, and vacant room allocation based on the capacity and duration required.
 
 We plan to make the project a real world problem solver, by talking to the concerned authorities and learning about the exact requirement of the industry. We shall then use the constraints they set, as a part of our scheduler constraints. 
+
+
+Link to the gantt chart :  https://docs.google.com/spreadsheet/ccc?key=0ArxcBwtlFm3-dG53dTc5ZUFqcDhjaXpWcEhBNG9BV3c
