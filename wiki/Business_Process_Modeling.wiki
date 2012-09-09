@@ -1,6 +1,5 @@
 Link to Business Process Modeling jpeg file uploaded on wiki:
-
-http://code.google.com/p/cse300-group11/source/browse/wiki/Group%2011_BPM.jpeg
+http://cse300-group11.googlecode.com/svn/wiki/Group%2011_BPM.jpeg
 
 Link to Business Process Modeling chart made online:
 
