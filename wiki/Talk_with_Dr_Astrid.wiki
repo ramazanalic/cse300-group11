@@ -1,4 +1,4 @@
-#summary We talked to Dr. Astrid about our project on 3rd September.
+#summary Initial talk with Dr. Astrid
 
 
 We showed a sketch of our software tool to Dr. Astrid and she had the following suggestions : 
