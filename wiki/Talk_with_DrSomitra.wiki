@@ -1,5 +1,5 @@
 #summary Initial talk with Dr.Somitra
-#labels Dr.somitra,Phase-Requirements
+#labels Phase-Design,Phase-Requirements
 
 = Introduction =
 
