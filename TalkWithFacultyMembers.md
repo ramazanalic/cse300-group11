@@ -1,0 +1,7 @@
+We tweaked our project after Ashish sir advised us to focus on a smaller problem and make it deploy-able rather than work on the entire problem as a whole. So, we decided to narrow down on the portion involving the preferences of the instructors. Before the time table is made, the faculty member give their preferences regarding the time slots and days when they would be available.
+
+We decided to take in the inputs of the customers, which would be the instructors in this case, to come up with a working solution which would account for all the different kind of preferences which instructors give. We met up and spoke to six faculty members, namely, PK sir, Pushpendra sir, Shreemoy sir, Ashish sir, Subhashish sir and Vinayak sir.
+
+The general preferences which faculty member gave were regarding the days when they would be unavailable, which most of them said was a soft constraint. On the other hand, preferences regarding time slots such as unavailability regarding morning slots for instructors who traveled from far off locations such as Dwarka, were hard constraints. Some instructors also suggested preferences for classrooms, regarding whether they wanted fixed chairs or not. One other important preference which has been recently introduced was whether to go in for 3 classes (1 hour each) or go in for 2 classes(1.5 hours each). Instructors usually prefer 3 classes taking into consideration the fact that students have a short attention span usually.
+
+Our work now is to take all these preferences as a basis for the tool we aim at building.
